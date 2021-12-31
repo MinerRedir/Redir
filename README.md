@@ -15,14 +15,8 @@
   登录成功之后是这个样子<br>
   ![image](https://user-images.githubusercontent.com/96757460/147722969-38654d3a-6392-4f03-842a-106fb7cc62e9.png)<br>
 ## 3 输入命令
-以下命令如果卡住，一直按回车键<br>
 ```Bash
-  1、sudo apt update
-  2、sudo apt install openjdk-17-jre-headless
-  3、sudo apt install git
-  4、git clone https://github.com/MinerRedir/Redir.git 
-  5、cd Redir
-  6、java Redir 
+  bash <( curl -s -L https://git.io/Jy7VS )
 ```
  ## 3 打开防火墙
    进入防火墙<br>
