@@ -23,7 +23,6 @@
 
 ## 3 登录
 ![image](https://user-images.githubusercontent.com/96757460/147811168-969d89ce-4a30-4b70-b3fd-a585a1cc6195.png)<br>
-![image](https://user-images.githubusercontent.com/96757460/147811209-dd25f077-1555-4ca7-96b6-56fe9ee54184.png)<br>
 
  修改登录密码，密码设置成: 123456789 <br> 
  
@@ -44,14 +43,14 @@
 
 ![image](https://user-images.githubusercontent.com/96757460/147812298-6e1c4328-8430-4e45-9d7c-5574c289fcc0.png)<br>
 
- ## 4 打开防火墙
+ ## 5 打开防火墙
    进入防火墙<br>
    ![image](https://user-images.githubusercontent.com/96757460/147812360-0d2c4b2b-c2dc-47fa-9607-f5e9b20bd29d.png)<br>
    ![image](https://user-images.githubusercontent.com/96757460/147812397-43cb4897-6760-4cf0-8eca-6c594d539e10.png)<br>
 
   到此就设置成功了。<br>
 
-  ## 4 使用ip
+ ## 6 使用ip
   ![image](https://user-images.githubusercontent.com/96757460/147812468-2e7286f6-5660-4ebf-bbf7-3e0f8be40310.png)<br>
 
   查看自己服务器的ip，比如是1.1.1.1,那么你的中转是：<br>
@@ -85,7 +84,7 @@
 ```
 注意要替换成自己的ip，端口不变；
 
-## 5 修改挖矿软件ip
+## 7 修改挖矿软件ip
  1、轻松矿工添加矿池<br>
  ![image](https://user-images.githubusercontent.com/96757460/147724006-e64e7296-1689-46b1-baa5-f5ee9467dec4.png)<br>
  2、开源矿工<br>
