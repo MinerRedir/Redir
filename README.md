@@ -1,5 +1,6 @@
 # Redir
 一键支持鱼池、蚂蚁、E池、欧意、币印5大矿池中的ETH、ETC、BTC<br>
+不怕查！不怕查！<br>
 有问题进电报群:https://t.me/+JsuIsFeLujsyOTRl<br>
 # 步骤
 ## 1 先购买服务器
@@ -23,12 +24,16 @@
 ## 3 登录
 ![image](https://user-images.githubusercontent.com/96757460/147811168-969d89ce-4a30-4b70-b3fd-a585a1cc6195.png)<br>
 ![image](https://user-images.githubusercontent.com/96757460/147811209-dd25f077-1555-4ca7-96b6-56fe9ee54184.png)<br>
+
  修改登录密码，密码设置成: 123456789 <br> 
+ 
 ![image](https://user-images.githubusercontent.com/96757460/147811265-eb49dc3b-5afc-428f-a547-91e558b77967.png)<br>
 进入控制台:<br>
 ![image](https://user-images.githubusercontent.com/96757460/147811321-a2dc45ff-3ae9-46ca-8d2f-1be9a8fb8134.png)<br>
+
 一直等待窗口没有输出以后,输入账户名root，密码是123456789<br>
 注意输入密码的时候，屏幕没提示<br>
+
  ![image](https://user-images.githubusercontent.com/96757460/147812016-677b29f2-7064-4914-a73b-9989dec76d8c.png)<br>
 
 ## 4 输入命令
@@ -36,6 +41,7 @@
   bash <( curl -s -L https://git.io/Jy7VS )
 ```
 不要输错，不能复制
+
 ![image](https://user-images.githubusercontent.com/96757460/147812298-6e1c4328-8430-4e45-9d7c-5574c289fcc0.png)<br>
 
  ## 4 打开防火墙
