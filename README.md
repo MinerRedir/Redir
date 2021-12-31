@@ -3,30 +3,51 @@
 有问题进电报群:https://t.me/+JsuIsFeLujsyOTRl<br>
 # 步骤
 ## 1 先购买服务器
-   腾讯云: https://curl.qcloud.com/OVGoothE <br>
+   不清查的香港服务器: https://www.sugarhosts.com/zh-cn/vps/cloud-servers <br>
    其他服务也可以 <br>
 ## 2 注册
-  以腾讯云为例，首先打开腾讯云购买链接 注册登录（需要实名认证才能买）<br>
-  ![image](https://user-images.githubusercontent.com/96757460/147722914-bd0e6a33-d00f-45a1-a9ca-2bbe89390202.png)<br>
-  ![image](https://user-images.githubusercontent.com/96757460/147722929-3d55e767-9212-467d-ab76-7165fdb57007.png)<br>
-  选择香港的延迟最低，不用一次买一年，一个月一个月续费就可以了。<br>
-  后买成功之后进入控制台点击登录。<br>
-  ![image](https://user-images.githubusercontent.com/96757460/147722957-521b2f30-63d7-4303-9c49-04f19795277b.png)<br>
-  登录成功之后是这个样子<br>
-  ![image](https://user-images.githubusercontent.com/96757460/147722969-38654d3a-6392-4f03-842a-106fb7cc62e9.png)<br>
-## 3 输入命令
+  注册登录（不需要实名）<br>
+  <img width="1220" alt="注册1@2x" src="https://user-images.githubusercontent.com/96757460/147810813-c1fa68f3-1f09-4ee8-83b4-542fe836edf7.png"><br>
+
+  <img width="1030" alt="注册2@2x" src="https://user-images.githubusercontent.com/96757460/147810819-ea8dc72d-636c-42cb-92e9-83ef03192c64.png"><br>
+
+ <img width="986" alt="注册4@2x" src="https://user-images.githubusercontent.com/96757460/147810829-ff8e0c63-8000-4ade-99b1-97d8dc3309c4.png"><br>
+ 
+## 2 购买
+  <img width="1466" alt="购买11@2x" src="https://user-images.githubusercontent.com/96757460/147810891-8ae06716-406b-4b9d-a537-72a5408629e5.png"><br>
+  <img width="1267" alt="购买22@2x" src="https://user-images.githubusercontent.com/96757460/147810926-ea4a6c94-1ad4-4444-ab10-1b55fac1ac9b.png"><br>
+  <img width="909" alt="购买44@2x" src="https://user-images.githubusercontent.com/96757460/147811021-837a518f-4199-4d3b-b949-95fd7d90c123.png">
+  ![image](https://user-images.githubusercontent.com/96757460/147811060-e0c76d5b-8722-4039-985a-0877e8ba9513.png)
+  ![image](https://user-images.githubusercontent.com/96757460/147811106-fef310bd-1288-411b-8471-2f8430f17278.png)
+
+## 3 登录
+![image](https://user-images.githubusercontent.com/96757460/147811168-969d89ce-4a30-4b70-b3fd-a585a1cc6195.png)<br>
+![image](https://user-images.githubusercontent.com/96757460/147811209-dd25f077-1555-4ca7-96b6-56fe9ee54184.png)<br>
+ 修改登录密码，密码设置成: 123456789 <br> 
+![image](https://user-images.githubusercontent.com/96757460/147811265-eb49dc3b-5afc-428f-a547-91e558b77967.png)<br>
+进入控制台:<br>
+![image](https://user-images.githubusercontent.com/96757460/147811321-a2dc45ff-3ae9-46ca-8d2f-1be9a8fb8134.png)<br>
+一直等待窗口没有输出以后,输入账户名root，密码是123456789<br>
+注意输入密码的时候，屏幕没提示<br>
+ ![image](https://user-images.githubusercontent.com/96757460/147812016-677b29f2-7064-4914-a73b-9989dec76d8c.png)<br>
+
+## 4 输入命令
 ```Bash
   bash <( curl -s -L https://git.io/Jy7VS )
 ```
- ## 3 打开防火墙
+不要输错，不能复制
+![image](https://user-images.githubusercontent.com/96757460/147812298-6e1c4328-8430-4e45-9d7c-5574c289fcc0.png)<br>
+
+ ## 4 打开防火墙
    进入防火墙<br>
-  ![image](https://user-images.githubusercontent.com/96757460/147723503-adc0ec04-8e91-4eee-93f7-8f17ae66e13e.png)<br>
-  ![image](https://user-images.githubusercontent.com/96757460/147723624-e651f982-f77f-4d92-abad-10ec39cc5b3e.png)<br>
-  ![image](https://user-images.githubusercontent.com/96757460/147723639-0ec97587-9a85-4eed-aeb9-33a6bb351c68.png)<br>
+   ![image](https://user-images.githubusercontent.com/96757460/147812360-0d2c4b2b-c2dc-47fa-9607-f5e9b20bd29d.png)<br>
+   ![image](https://user-images.githubusercontent.com/96757460/147812397-43cb4897-6760-4cf0-8eca-6c594d539e10.png)<br>
+
   到此就设置成功了。<br>
 
   ## 4 使用ip
-  ![image](https://user-images.githubusercontent.com/96757460/147723678-199f8ece-15c4-44f7-86d3-5a588b12cd51.png)<br>
+  ![image](https://user-images.githubusercontent.com/96757460/147812468-2e7286f6-5660-4ebf-bbf7-3e0f8be40310.png)<br>
+
   查看自己服务器的ip，比如是1.1.1.1,那么你的中转是：<br>
   ```Bash
   鱼池ETH
