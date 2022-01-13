@@ -28,7 +28,8 @@
  
 ![image](https://user-images.githubusercontent.com/96757460/147811265-eb49dc3b-5afc-428f-a547-91e558b77967.png)<br>
 进入控制台:<br>
-![image](https://user-images.githubusercontent.com/96757460/147811321-a2dc45ff-3ae9-46ca-8d2f-1be9a8fb8134.png)<br>
+![image](https://user-images.githubusercontent.com/96757460/149259799-d0009b6f-3a19-485e-b311-bfc5c5e4539f.png)<br>
+
 
 一直等待窗口没有输出以后,输入账户名root，密码是123456789<br>
 注意输入密码的时候，屏幕没提示<br>
