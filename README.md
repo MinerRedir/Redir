@@ -15,7 +15,7 @@
  <img width="986" alt="注册4@2x" src="https://user-images.githubusercontent.com/96757460/147810829-ff8e0c63-8000-4ade-99b1-97d8dc3309c4.png"><br>
  
 ## 2 购买
-  <img width="1466" alt="购买11@2x" src="https://user-images.githubusercontent.com/96757460/147810891-8ae06716-406b-4b9d-a537-72a5408629e5.png"><br>
+![image](https://user-images.githubusercontent.com/96757460/149774077-8c599946-f6f4-404e-99ee-2262db9e2075.png)<br>
   <img width="1267" alt="购买22@2x" src="https://user-images.githubusercontent.com/96757460/147810926-ea4a6c94-1ad4-4444-ab10-1b55fac1ac9b.png"><br>
   <img width="909" alt="购买44@2x" src="https://user-images.githubusercontent.com/96757460/147811021-837a518f-4199-4d3b-b949-95fd7d90c123.png">
   ![image](https://user-images.githubusercontent.com/96757460/147811060-e0c76d5b-8722-4039-985a-0877e8ba9513.png)
